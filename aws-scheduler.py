@@ -4,7 +4,7 @@ import time
 
 config = {
     'tag': 'schedule',
-    'exclude': ['i-b4714ff6', 'i-a217b7e9', 'i-22bee1c7', 'i-f280bcb1', 'i-43a5f9a6', 'i-12f3dcf7'],
+    'exclude': [],
     'default': '{"mon": {"start": 7, "stop": 18},"tue": {"start": 7, "stop": 18},"wed": {"start": 7, "stop": 18},'
                '"thu": {"start": 7, "stop": 18}, "fri": {"start": 7, "stop": 18}}'
 }
