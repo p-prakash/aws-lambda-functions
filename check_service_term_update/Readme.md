@@ -27,4 +27,5 @@ Use the following configuration for your Lambda function.
 * Timeout: 10 seconds
 
 Configure the Lambda function to run every day at 7:55AM (GMT) which will be 23:55 (PST)
+
 Cron expression: `cron(55 7 * * ? *)`
