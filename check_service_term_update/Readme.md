@@ -7,11 +7,11 @@ Open `check_service_term_update.py` file and modify the following configuration 
 
 > FROM = 'noreply@example.com'
 
-> SMTP_Server = '<SMTP_Server>:<SMTP_Port>'
+> SMTP_Server = 'SMTP_Server:SMTP_Port'
 
-> SMTP_User = '<SMTP user name>'
+> SMTP_User = 'SMTP user name'
 
-> SMTP_Password = '<SMTP Password>'
+> SMTP_Password = 'SMTP Password'
 
 Create the zip file by running the command inside `check_service_term_update` directory as shown below.
 ```
